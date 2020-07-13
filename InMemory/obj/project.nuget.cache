@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Cxvq9QMl9qRwrdlARhlhEGL89oJ8LhN/jQt2KdLlkz5umj2cexn8+2xwZ84pPmXNhutjWGt5Lqpzs8D5AxP0Gg==",
+  "success": true,
+  "projectFilePath": "C:\\Workspaces\\DemoAutofac\\DemoAutofac\\InMemory\\InMemory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Frederick\\.nuget\\packages\\autofac\\5.2.0\\autofac.5.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

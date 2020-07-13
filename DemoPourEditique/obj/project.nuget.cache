@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dzrV0ehOBGayiWxobqwlna6s/KD2/3irEleg+9JahvUvCFVtoLSlI9zndiroykob87T4LanAY/3uxdW76j3FMQ==",
+  "success": true,
+  "projectFilePath": "C:\\Workspaces\\DemoAutofac\\DemoAutofac\\DemoPourEditique\\DemoPourEditique.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Frederick\\.nuget\\packages\\autofac\\5.2.0\\autofac.5.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
